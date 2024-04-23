@@ -9,6 +9,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 *Add your sessions here, in alphabetical order by session title*
 
 - [Session Title (SpeakerName)](/talks/foldername/README.md)
+- [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
 
 
 ## Stir Trek 2023 Reviews
