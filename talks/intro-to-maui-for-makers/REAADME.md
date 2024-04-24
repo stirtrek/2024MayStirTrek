@@ -1,6 +1,6 @@
 # Intro To MAUI For Makers
  
-My name is Dennis Dunn and I'm a retired software developer. I have a ham radio license [AE0TR](https://ae0tr.github.com) and my passion project is [Open CDSI](https://opencdsi.org). Feel free to reach out to me at [ansofive@gmail.com](mailto:ansofive@gmail.com).
+My name is Dennis Dunn and I'm a retired software developer. I have a ham radio license [AE0TR](https://ae0tr.github.com) and my passion project is [Open CDSI](https://opencdsi.org). Sometimes I make [notes to myself](https://dennisdunn.github.io). Feel free to reach out to me at [ansofive@gmail.com](mailto:ansofive@gmail.com).
 
 ## My Stir Trek Journey
 
