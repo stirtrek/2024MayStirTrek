@@ -8,7 +8,7 @@ In 2018 I gave a talk at Stir Trek about prototyping complicated systems with No
 
 Last year I fat-fingered my submission during the *Call For Presentations* so nobody got to see my **Planespotting With Node-Red** talk. It would have been legendary!
 
-This year, however, I managed to secure a slot with a talk about Android app development with *.NET MAUI*.
+This year, however, I managed to secure a slot with a talk about Android app development with *.NET MAUI*, the **Multi-Platform App UI** .NET framework from Microsoft.
 We'll look at building an app to control *Conways Game of Life* running on a microcontroller.
 
 ## What We'll Cover
