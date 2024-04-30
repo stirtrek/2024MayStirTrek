@@ -11,6 +11,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 - [Session Title (SpeakerName)](/talks/foldername/README.md)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
+- [What Does Security Look Like when Building AI? (Robert Herbig)](/talks/what-does-security-look-like-when-building-ai)
 - [Why your API needs a spec and how to get it one (Liz Johnson)](/talks/why-your-api-needs-a-spec/stirtrek2024.pdf)
 
 ## Stir Trek 2023 Reviews
