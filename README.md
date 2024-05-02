@@ -8,8 +8,8 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 
 *Add your sessions here, in alphabetical order by session title*
 
-- [Beyond Request/Response](/talks/beyond-request-response/README.md)
 - [Session Title (SpeakerName)](/talks/foldername/README.md)
+- [Beyond Request/Response (Chris Nelson)](/talks/beyond-request-response/README.md)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
 - [What Does Security Look Like when Building AI? (Robert Herbig)](/talks/what-does-security-look-like-when-building-ai)
