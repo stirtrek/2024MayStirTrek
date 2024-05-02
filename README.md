@@ -8,6 +8,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 
 *Add your sessions here, in alphabetical order by session title*
 
+- [Beyond Request/Response](/talks/beyond-request-response/README.md)
 - [Session Title (SpeakerName)](/talks/foldername/README.md)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
