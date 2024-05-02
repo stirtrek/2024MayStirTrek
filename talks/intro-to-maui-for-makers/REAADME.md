@@ -16,7 +16,7 @@ We'll look at building an app to control *Conways Game of Life* running on a mic
  I start with the gizmo and how to advertise over *Bluetooth LE* on a **Raspberry Pico W**. The second section of the talk will be about setting up Visual Studio 2022 for cross-platform development. The third part of the talk will cover developing the gizmo configuration app for Android.
 
 ## Slides
-- [Intro to MAUI For Makers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vSf7BKA67j3hwyDbvKRJ9oJVSfbYALALcQpwkX6ILGhYz5D7ICfXV_Njwt-IypJgjoWvFjLkCR5kFu9/pub?start=true&loop=true&delayms=3000) 
+- [Intro to MAUI For Makers - Slides](https://docs.google.com/presentation/d/e/2PACX-1vREcQVG8stoKSg5kGT-YiXvqQu_lUAe9XECDEDx1QXsOvPNzAhRObQ79JQaNc08VMOllTA-eB5vgB2V/pub?start=false&loop=true&delayms=3000) 
 - [Intro to MAUI For Makers - Speaker Notes](Intro%20To%20MAUI%20For%20Makers.pdf) 
 
 ## Repos
