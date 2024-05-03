@@ -9,6 +9,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 *Add your sessions here, in alphabetical order by session title*
 
 - [Session Title (SpeakerName)](/talks/foldername/README.md)
+- [Beyond Request/Response (Chris Nelson)](/talks/beyond-request-response/README.md)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
 - [Machine learning belongs in a museum! (Sam Gomez)]( /talks/machine-learning-museum/)
