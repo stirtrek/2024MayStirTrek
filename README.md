@@ -11,6 +11,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 - [Session Title (SpeakerName)](/talks/foldername/README.md)
 - [Beyond Request/Response (Chris Nelson)](/talks/beyond-request-response/README.md)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
+- [Introduction to Azure Infrastructure as Code (Carey Payette)](/talks/introduction-to-azure-infrastructure-as-code/intro_to_azure_iac.pdf)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
 - [Machine learning belongs in a museum! (Sam Gomez)]( /talks/machine-learning-museum/)
 - [What Does Security Look Like when Building AI? (Robert Herbig)](/talks/what-does-security-look-like-when-building-ai)
