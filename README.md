@@ -10,6 +10,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 
 - [Session Title (SpeakerName)](/talks/foldername/README.md)
 - [Beyond Request/Response (Chris Nelson)](/talks/beyond-request-response/README.md)
+- [Brain Maxed Out? Add a Second Brain! (Jeffrey Miller)](/talks/brain-maxed-out-add-a-second-brain/README.md)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
 - [Introduction to Azure Infrastructure as Code (Carey Payette)](/talks/introduction-to-azure-infrastructure-as-code/intro_to_azure_iac.pdf)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
