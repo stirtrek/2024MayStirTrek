@@ -17,8 +17,11 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 - [Joe the Axolotl, Clever Closet, & Demonic Robots - Weird Projects of Tech-Savvy Middle School Girls (Ashley Holcombe)](/talks/joe-axolotl-clever-closet-demonic-robots/joe-axolotl-clever-closet-demonic-robots.pdf)
 - [Machine learning belongs in a museum! (Sam Gomez)]( /talks/machine-learning-museum/)
 - [Making Your Code Suck Less Without Setting Fire to Production (Matt Eland)](/talks/making-your-code-suck-less/talk.md)
+- [Messaging With Limits: Concurrent, Multi-Stage Data Processing in the Real World [Brian Meeker]](/talks/messaging-with-limits/messaging_with_limits.pptx)
+- [Real World Minimal APIs (Shawn Wildermuth)](/talks/real-world-minimal-apis/readme.md)
+- [Variables of the Veracious Variety: How to Better Name Your Variables (Adreinne Braganza Tacke)](/talks/variables-of-veracious-variety/README.md)
 - [What Does Security Look Like when Building AI? (Robert Herbig)](/talks/what-does-security-look-like-when-building-ai)
-- [Why overcomplicate when HTML will do? (Jonathan Knapp)](/talks/why-overcomplicate-when-html-will-do/why-overcomplicate-when-html-will-do.pdf)
+- [Why Overcomplicate when HTML will do? (Jonathan Knapp)](/talks/why-overcomplicate-when-html-will-do/why-overcomplicate-when-html-will-do.pdf)
 - [Why your API needs a spec and how to get it one (Liz Johnson)](/talks/why-your-api-needs-a-spec/stirtrek2024.pdf)
 
 ## Stir Trek 2024 Reviews
