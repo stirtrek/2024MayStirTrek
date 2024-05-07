@@ -22,7 +22,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 
 ## Stir Trek 2024 Reviews
 
-*Coming Soon?*
+[Stir Trek 2024 Recap - Abbey Perini](https://twitter.com/AbbeyPerini/status/1787146108537373108)
 
 ## Speaker Instructions
 
