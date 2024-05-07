@@ -19,6 +19,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 - [Machine learning belongs in a museum! (Sam Gomez)]( /talks/machine-learning-museum/)
 - [Making Your Code Suck Less Without Setting Fire to Production (Matt Eland)](/talks/making-your-code-suck-less/talk.md)
 - [Messaging With Limits: Concurrent, Multi-Stage Data Processing in the Real World [Brian Meeker]](/talks/messaging-with-limits/messaging_with_limits.pptx)
+- [Modular Monoliths - The Goldilocks Architecture? (Steve "ardalis" Smith)](/talks/modular-monoliths/README.md)
 - [Real World Minimal APIs (Shawn Wildermuth)](/talks/real-world-minimal-apis/readme.md)
 - [Usability Testing without a UX Specialist (Kathryn Grayson Nanz)](/talks/usability-testing-without-ux/README.md)
 - [Variables of the Veracious Variety: How to Better Name Your Variables (Adrienne Braganza Tacke)](/talks/variables-of-veracious-variety/README.md)
