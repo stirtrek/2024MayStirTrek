@@ -8,7 +8,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 
 *Add your sessions here, in alphabetical order by session title*
 
-- [Session Title (SpeakerName)](/talks/foldername/README.md)
+<!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
 - [Beyond Request/Response (Chris Nelson)](/talks/beyond-request-response/README.md)
 - [Brain Maxed Out? Add a Second Brain! (Jeffrey Miller)](/talks/brain-maxed-out-add-a-second-brain/README.md)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
