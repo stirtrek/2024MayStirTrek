@@ -8,7 +8,7 @@
 - [Getting Started: Modular Monoliths in .NET](https://dometrain.com/course/getting-started-modular-monoliths-in-dotnet/)
 - [Deep Dive: Modular Monoliths in .NET](https://dometrain.com/course/deep-dive-modular-monoliths-in-dotnet/)
 
-## Steve Smith
+## Steve "ardalis" Smith
 
 - Blog: [ardalis.com](https://ardalis.com)
 - Twitter: [@ardalis](https://twitter.com/ardalis)
@@ -17,5 +17,4 @@
 - Help for Teams: [NimblePros](https://nimblepros.com)
 - Help for Individuals: [devBetter](https://devbetter.com)
 
-Reach out to me if you need help with your software application's quality, architecture, or development practices. I'm available for consulting, training, and coaching. I also have a number of online courses available on Pluralsight and Dometrain.
-
+Reach out to me if you need help with your software application's quality, architecture, or development practices. I'm available for consulting, training, and coaching. I also have a number of online courses available on [Pluralsight](https://www.pluralsight.com/authors/steve-smith) and [Dometrain](https://dometrain.com/author/steve-ardalis-smith/).
