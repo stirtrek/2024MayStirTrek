@@ -12,6 +12,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 - [Beyond Request/Response (Chris Nelson)](/talks/beyond-request-response/README.md)
 - [Brain Maxed Out? Add a Second Brain! (Jeffrey Miller)](/talks/brain-maxed-out-add-a-second-brain/README.md)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
+- [How to Get Started with AI: Moving Beyond ChatGPT (Jordan Thayer)](/talks/ai-is-more-than-chatgpt/ai-is-more-than-chatgpt.pdf)
 - [Introduction to Azure Infrastructure as Code (Carey Payette)](/talks/introduction-to-azure-infrastructure-as-code/intro_to_azure_iac.pdf)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
 - [Joe the Axolotl, Clever Closet, & Demonic Robots - Weird Projects of Tech-Savvy Middle School Girls (Ashley Holcombe)](/talks/joe-axolotl-clever-closet-demonic-robots/joe-axolotl-clever-closet-demonic-robots.pdf)
