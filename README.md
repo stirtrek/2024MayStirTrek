@@ -14,6 +14,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
 - [Introduction to Azure Infrastructure as Code (Carey Payette)](/talks/introduction-to-azure-infrastructure-as-code/intro_to_azure_iac.pdf)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
+- [Joe the Axolotl, Clever Closet, & Demonic Robots - Weird Projects of Tech-Savvy Middle School Girls (Ashley Holcombe)](/talks/joe-axolotl-clever-closet-demonic-robots/joe-axolotl-clever-closet-demonic-robots.pdf)
 - [Machine learning belongs in a museum! (Sam Gomez)]( /talks/machine-learning-museum/)
 - [What Does Security Look Like when Building AI? (Robert Herbig)](/talks/what-does-security-look-like-when-building-ai)
 - [Why overcomplicate when HTML will do? (Jonathan Knapp)](/talks/why-overcomplicate-when-html-will-do/why-overcomplicate-when-html-will-do.pdf)
