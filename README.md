@@ -11,6 +11,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
 - [Beyond Request/Response (Chris Nelson)](/talks/beyond-request-response/README.md)
 - [Brain Maxed Out? Add a Second Brain! (Jeffrey Miller)](/talks/brain-maxed-out-add-a-second-brain/README.md)
+- [Doing DevOps Right: Trunk-based Development, CI/CD, and IaC (Drake Lundstrom)](/talks/doing-devops-right/)
 - [#gitPanic - Merging and Rebasing (Abbey Perini)](/talks/git-panic-merging-and-rebasing/README.md)
 - [How to Get Started with AI: Moving Beyond ChatGPT (Jordan Thayer)](/talks/ai-is-more-than-chatgpt/ai-is-more-than-chatgpt.pdf)
 - [I Ain't Afraid of No Ghost Products: A human-centered approach to breathe life into unused products (Haley Hendershot Malone and Rachel Gregory)](/talks/aint-afraid-no-ghost-products/ghost-products-stir-trek-2024.pdf)
