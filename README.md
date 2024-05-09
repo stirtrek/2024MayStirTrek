@@ -17,6 +17,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 - [I Ain't Afraid of No Ghost Products: A human-centered approach to breathe life into unused products (Haley Hendershot Malone and Rachel Gregory)](/talks/aint-afraid-no-ghost-products/ghost-products-stir-trek-2024.pdf)
 - [Introduction to Azure Infrastructure as Code (Carey Payette)](/talks/introduction-to-azure-infrastructure-as-code/intro_to_azure_iac.pdf)
 - [Intro To MAUI For Makers (Dennis Dunn)]( /talks/intro-to-maui-for-makers/README.md)
+- [Is Your Software Going to Fail (Michael Gregory)](/talks/is-your-software-going-to-fail/is-your-software-going-to-fail.pdf)
 - [Joe the Axolotl, Clever Closet, & Demonic Robots - Weird Projects of Tech-Savvy Middle School Girls (Ashley Holcombe)](/talks/joe-axolotl-clever-closet-demonic-robots/joe-axolotl-clever-closet-demonic-robots.pdf)
 - [Machine learning belongs in a museum! (Sam Gomez)]( /talks/machine-learning-museum/)
 - [Making Your Code Suck Less Without Setting Fire to Production (Matt Eland)](/talks/making-your-code-suck-less/talk.md)
